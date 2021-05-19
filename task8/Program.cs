@@ -23,6 +23,7 @@ namespace task8
             var orderList = new Order[]
             {
                 new Order(clients[1], DateTime.Now),
+                new Order(clients[1], DateTime.Now),
                 new Order(clients[3], DateTime.Now),
             };
 
