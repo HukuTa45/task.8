@@ -45,9 +45,7 @@ namespace task8
                         }
                         break;
                 }
-                //var c =  new Client("Name", new List<Pet> { new Bulldog("Жека"), new Pug("Жека") },"123123123123");
-                //var oder = new Order(c, DateTime.Now);
-                //Console.WriteLine(oder.ToString()+"\nЧек на сумму: "+ calc.Calculate(c.Pets)+"\n");
+                
             }
 
         }
